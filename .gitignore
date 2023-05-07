@@ -30,5 +30,5 @@ bin/
 
 .idea
 out
-*_iml
+*.iml/
 
